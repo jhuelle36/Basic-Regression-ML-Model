@@ -3,8 +3,14 @@ This code contains multiple regression models which are trained to be able to pr
 
 Results:
 
+
                      Mean absolute error [MPG]
+                  
+
 Single-Variable Linear Regression Model:                        3.643113 
+
 Multiple-Variable Linear Regression Model:                      2.472075
+
 Single-Variable Deep Neural Network Model:                      2.955933
+
 Multiple-Regression Deep Neural Network Model:                  1.617653
